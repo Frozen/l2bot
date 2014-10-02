@@ -2,7 +2,7 @@ global const $kEmptyColor = -1
 global const $kBarFull = 95
 global const $kBarHalf = 50
 global const $kBarThird = 30
-global const $kBarCritical = 20
+global const $kBarCritical = 70
 
 global $gMapChecksum = 0
 global $gTargetChecksum = 0

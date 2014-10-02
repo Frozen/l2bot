@@ -99,6 +99,7 @@ func Rest()
 
 	if IsHealthLess($kBarCritical) or IsManaLess($kBarCritical) then
 		LogWrite("Rest")
-		SitLoop()
+		;SitLoop()
+		Sleep(500)
 	endif
 endfunc
